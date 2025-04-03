@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Practice (AD, Splunk, Linux)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Active Directory Practice (AD, Ubuntu Server, Splunk, Linux)</b>
+  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SIEM Design and Integration (Azure Sentinel)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>Networking School Campus Design</b>
@@ -18,9 +18,9 @@
 [linkedin]: https://www.linkedin.com/in/bryant-collins-562b42144/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Here are some ideas:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
