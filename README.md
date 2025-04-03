@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Mega Project (AD, Ubuntu Server, Splunk, Linux)</b>
+- <b>Active Directory Mega Project (AD, Oracle VirtualBox, Splunk, Ubuntu Server, Kali Linux)</b>
   - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>SIEM Design and Integration (Azure Sentinel)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
