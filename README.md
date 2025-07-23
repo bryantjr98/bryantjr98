@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Active Directory Mega Project (AD, Oracle VirtualBox, Splunk, Ubuntu Server, Kali Linux)</b>
-  - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>SIEM Design and Integration (Azure Sentinel)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+- <b>Active Directory Project (AD, Oracle VirtualBox, Powershell)</b>
+  - https://github.com/bryantjr98/Active-Directory-Mega-Project
 - <b>Campus Network Infrastructure</b>
   - https://github.com/bryantjr98/Campus-Network-Design
+- <b>SIEM Design and Integration (Azure Sentinel)</b>
+  - Coming Soon!!!
     
 
 
