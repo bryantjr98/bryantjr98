@@ -1,6 +1,6 @@
 <h1>Hi, I'm Bryant!
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Active Directory Mega Project (AD, Oracle VirtualBox, Splunk, Ubuntu Server, Kali Linux)</b>
   - [Practicing DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
