@@ -6,10 +6,10 @@
   - https://github.com/bryantjr98/Active-Directory-Mega-Project
 - <b>Campus Network Infrastructure</b>
   - https://github.com/bryantjr98/Campus-Network-Design
+- <b> Microsoft Entra IAM Governance
+  - Conditional Access, MFA, PIM/JIT, Access Reviews, governance
 - <b>SIEM Design and Integration (Azure Sentinel)</b>
   - Coming Soon!!!
-    
-
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://www.linkedin.com/in/bryant-collins-562b42144/
